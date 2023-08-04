@@ -60,8 +60,8 @@ section h2 {
 <img src="./uni_img/header_rechts.svg" class="img_rechts"/>
 </header>
 
-# Einführung für den Workshop
-<div class="text_white">
+# Hands-on Workshop
+<div class="text_white"><b>Intro</b><br>
 Nobutake Kamiya</div>
 
 ![bg 100%](./uni_img/hintergrund_1page.jpg)
@@ -73,16 +73,63 @@ Nobutake Kamiya</div>
 <img src="./uni_img/header_rechts.svg" class="img_rechts"/>
 </header>
 
-## Zum Beginn des Workshops...
-... sollen wir kurz die folgenden Themen kennenlernen...
+## Was wollen wir von dem Workshop heute mitnehmen?
+- Ein wenig Coding kennenlernen
+- Coding ist nicht schwer und macht Spass!
+- Coding an sich ist aber noch keine "Forschung"
 
-- Google Colaboratory
+---
+
+<header class="header_2nd">
+<img src="./uni_img/header_links.png" height=80% class="img_links"/>
+<img src="./uni_img/header_rechts.svg" class="img_rechts"/>
+</header>
+
+## Zum Beginn des Workshops...
+... sollen wir kurz die folgenden Themen anreissen...
+
 - Qualität der Ergebnisse
 - Copyright und Lizenzen
 - Nutzung der API
 
 ---
 
+
+<header class="header_2nd">
+<img src="./uni_img/header_links.png" height=80% class="img_links"/>
+<img src="./uni_img/header_rechts.svg" class="img_rechts"/>
+</header>
+
+## Qualität der Ergebnisse
+- Anforderung für "akademische" Forschung 
+- Datenmanegement für Nachvollziehbarkeit
+- Open Science
+
+Hier auch [Kodex von DFG](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/gwp/) ([Zusammenfassung der Uni Magdeburg](https://www.fdm.ovgu.de/Gute+wissenschaftliche+Praxis+OVGU+Magdeburg.html)) nütztlich!
+
+---
+
+<header class="header_2nd">
+<img src="./uni_img/header_links.png" height=80% class="img_links"/>
+<img src="./uni_img/header_rechts.svg" class="img_rechts"/>
+</header>
+
+## Copyright und Lizenzen
+- Copyright der Datensätze / Softwarelizenzen beachten und richtig zitieren
+- Copyright/Datenschütz/Nutzungsrichtlinie bei KI 
+
+---
+
+<header class="header_2nd">
+<img src="./uni_img/header_links.png" height=80% class="img_links"/>
+<img src="./uni_img/header_rechts.svg" class="img_rechts"/>
+</header>
+
+## Nutzung der API
+- API-Schnittstelle nicht zu sehr belasten
+- Wenn möglich, zitieren!
+
+---
 
 <header class="header_2nd">
 <img src="./uni_img/header_links.png" height=80% class="img_links"/>
@@ -97,6 +144,8 @@ Nobutake Kamiya</div>
 
 
 ---
+
+
 <header class="header_2nd">
 <img src="./uni_img/header_links.png" height=80% class="img_links"/>
 <img src="./uni_img/header_rechts.svg" class="img_rechts"/>
@@ -109,7 +158,8 @@ Nobutake Kamiya</div>
 1. Dem neuen Notebook einen Namen geben und speichern
 1. Das Notebook ist jetzt im Ordner "Colab Notebooks" in Google Drive zu finden
 
----
+--- 
+
 
 <header class="header_2nd">
 <img src="./uni_img/header_links.png" height=80% class="img_links"/>
@@ -122,33 +172,3 @@ Nobutake Kamiya</div>
 1. Im Code-Feld kann man Python-Code schreiben, aber man kann auch Shell-Befehl ("!" vorne) oder Magic-Befehl ("%" vorne) ausführen
 
 __Lass uns einfach ausprobieren!__
-
----
-
-<header class="header_2nd">
-<img src="./uni_img/header_links.png" height=80% class="img_links"/>
-<img src="./uni_img/header_rechts.svg" class="img_rechts"/>
-</header>
-
-
-## Qualität der Ergebnisse
-
-
----
-
-<header class="header_2nd">
-<img src="./uni_img/header_links.png" height=80% class="img_links"/>
-<img src="./uni_img/header_rechts.svg" class="img_rechts"/>
-</header>
-
-## Copyright und Lizenzen
-
-
----
-
-<header class="header_2nd">
-<img src="./uni_img/header_links.png" height=80% class="img_links"/>
-<img src="./uni_img/header_rechts.svg" class="img_rechts"/>
-</header>
-
-## Nutzung der API
