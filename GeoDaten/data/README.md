@@ -14,4 +14,9 @@ Die Datei ist von der Stadt Zürich erstellt und unter CC0 ins Netz gestellt.
 
 Stand: 07. Aug. 2023
 
+## Bars und Lounges in der Region Zürich (Zürich Tourismus)
 
+Lizenz: CC-SA
+Datenbesitzer: Zürich Tourismus
+[Link](https://data.stadt-zuerich.ch/dataset/zt_bars)
+Stand: 07. Aug. 2023
