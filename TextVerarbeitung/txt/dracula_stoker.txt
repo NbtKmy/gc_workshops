@@ -1,489 +1,10 @@
-4 " 
 
 
+JONATHAN HARKER'S JOURNAL 
 
-DRACUIA 
+(Kept in shorthand.) 
 
-
-
-»TOXI» 
-
-
-
-
-
-nil 
-
-
-
-
-
-
-2 § S 
-
-
-
-
-I 
-
-
-
-I s 
-
-
-
-1 
-
-
-
-i i 1 
-
-
-
-1 I 
-
-
-
-
-3 g g 
-
-
-
-1 ^ 
-
-i § 
-
-
-
-I I 
-
-
-
-g 
-
-
-
-i= t 
-
-
-
-11^1 
-
-
-
-i i 
-
-
-
-
-
-
-I I i 
-
-ill 
-
-
-
-i I i 
-
-'i I i 
-
-
-
-1 i 
-
-
-
-'1 I I 
-
-
-
-1 I 
-
-
-
-M s 
-
-
-
-§ I 
-
-
-
-mhii 1 m 
-
-
-
-iBii 1 m 
-
-
-
-nil 
-
-
-
-I ^ § 
-
-
-
-i i 
-
-
-
-ill 
-
-
-
-§ 
-
-
-
-s 
-
-
-
-
-1 3 ^ 
-III 1 
-
-
-1 
-
-J 
-
-
-ij 
-
-
-
-
-
-
-lis 
-
-ill 
-
-111 
-
-ill 
-
-
-
-g 
-
-
-
-i 
-
-
-
-i I I 
-
-
-
-
-g f g 
-
-
-
-P i § 
-
-i I § 
-i I g 
-
-
-
-I I g 
-
-
-
-ill 
-
-
-
-I I g 
-
-
-
-ri m^ 
-
-
-1111 
-
-
-1 1 hU 
-
-
-.i^^tfsHli 
-
-
--_ 
-
-
-
-
-1 1 i 
-
-
-
-
-PM 
-
-
-1 1 1 1 
-
-
-VKI 
-
-
-
-
-tN 
-
-
-lllJ 
-
-
-1 mm 
-
-
-
-
-
-
-Mf d 1" 
-
-
-iirv^ 1 
-
-
-
-
-lUi 
-
-
-l||£ 
-
-
-1 
-
-
-«nii 1 m 
-
-
-lllii 
-
-
-
-
-
-iJl 
-
-
-
-U 
-
-
-
-i 
-
-
-
-III 
-
-
-
-THE MODERTS LIBRARY 
-
-OF THE W O R L D'S BEST BOOKS 
-
-
-
-DRACULA 
-
-
-
-The publishers will be pleased to send, upon request, an 
-illustrated folder setting forth the purpose and scope of 
-THE MODERN L.IBB.AB.Y, and listing each volume 
-in the series. Every reader of books will find titles he has 
-been looking for, handsomely printed, in unabridged 
-editions, and at an unusually low price. 
-
-
-
-
-dracula 
-
-
-
-BY 
-
-
-
-BEAM STOKER 
-
-
-
-MODERN LIBRARY • NEV/ YORK 
-
-
-
-COPYRIGHT, 1897, BY BRAM STOKER 
-
-
-
-
-Random House is the publisher of 
-THE MODERN LIBRARY 
-
-BBNNETT A. CERF • DONALD S. KLOPFER • ROBERT K. HAAS 
-
-Manufactured in the United States of America 
-Printed by Parkway Printing Company Bound by H. Wolff 
-
-
-
-TO 
-
-MY DEAR FRIEND 
-
-HOMMY-BEG 
-
-
-
-How these papers have been placed in sequence will be 
-made manifest in the reading of them. All needless mat- 
-ters have been eliminated, so that a history almost at 
-variance with the possibilities of later-day belief may stand 
-forth as simple fact. There is throughout no statement of 
-past things wherein memory may err, for all the records 
-chosen are exactly contemporary, given from the stand- 
-points and within the range of knowledge of those who 
-made them. 
-
-
-
-CONTENTS 
-
-Chapter I 
-
-
-
-PAGE 
-
-
-
-Jonathan Harker's Journal i 
-
-Chapter II 
-Jonathan Harker's Journal i6 
-
-Chapter III 
-Jonathan Harker's Journal 30 
-
-Chapter IV 
-Jonathan Harker's Journal 44 
-
-Chapter V . 
-
-Letters — Lucy and Mina 59 
-
-Chapter VI 
-Mina Murray's Journal 69 
-
-Chapter VII 
-Cutting from "The Dailygraph," 8 August 83 
-
-Chapter VIII 
-Mina Murray's Journal 98 
-
-Chapter IX 
-Mina Murray's Journal 114 
-
-
-
-vni CONTENTS 
-
-Chapter X 
-Mina Murray's Journal 129 
-
-Chapter XI 
-Lucy Westenias Diary 14^ 
-
-Chapter XII 
-J)r. Seward's Diary 159 
-
-Chapter XIII 
-Dr. Seward's Diary 178 
-
-Chapter XIV 
-Mina Marker's Journal 196 
-
-Chapter XV 
-Dr. Seward's Diary 213 
-
-Chapter XVI 
-Dr. Seward's Diary 228 
-
-Chapter XVII 
-Dr. Seward's Diary 240 
-
-Chapter XVIII 
-Dr. Seward's Diary 255 
-
-Chapter XIX 
-Jonathan Harker's Journal 273 
-
-Chapter XX 
-Jonathan Harker's Journal 287 
-
-
-
-CONTENTS ix 
-
-Chapter XXI 
-
-PAGB 
-
-Dr. Seward's Diary 303 
-
-Chapter XXII 
-Jonathan Harker's Journal 319 
-
-Chapter XXIII 
-Dr. Seward's Diary 333 
-
-Chapter XXIV 
-
-Dr. Seward's Phonograph Diary, spoken by Van 
-
-Helsing , . 348 
-
-Chapter XXV 
-Dr. Seward's Diary 364 
-
-Chapter XXVI 
-Dr. Seward's Diary 380 
-
-Chapter XXVII 
-Mina Harker's Journal 399 
-
-
-
-DRACULA 
-
-
-
-DRACULA 
-
-CHAPTER I 
-
-JONATHAN HARKER*S JOURNAL 
-
-{Kept in shorthand.) 
-
-3 May. Bistrit2.—Leit Munich at 8:35 ?• ,^'\^\^^^ 
+3 May. Bistrit2.—Leit Munich at 8:35 pm, on 1st
 May, arriving at Vienna early next morning; should have 
 arrived at 6:46, but train was an hour late. Buda-Pesth 
 seems a wonderful place, from the glimpse which I got 
@@ -504,16 +25,13 @@ and he said it was called "paprika hendl," and that, as it
 was a national dish, I should be able to get it anywhere 
 along the Carpathians. I found my smattering of German 
 very useful here ; indeed, I don't know how I should be 
-able to get on without it. • t ^ 
+able to get on without it.
 
 Having had some time at my disposal when in London, 
 I had visited the British Museum, and made search among 
 the books and maps in the library regarding Transylvania; 
 
-
-
-2 D R ACUL A 
-
+Chapter 2
 it had struck me that some foreknowledge of the country 
 could hardly fail to have some importance in dealing with 
 a nobleman of that country. I find that the district he 
@@ -634,8 +152,8 @@ await you and will bring you to me. I trust that your
 journey from London has been a happy one, and that you 
 will enjoy your stay in my beautiful land. 
 
-"Your friend, 
-"Dracula.*' 
+"Your friend,
+ Dracula" 
 
 4 May.—l found that my landlord had got a letter from 
 the Count, directing him to secure the best place on the 
@@ -892,7 +410,7 @@ hold on. The road grew more level, and we appeared to fly
 
 
 
-lo DRACULA 
+l0 DRACULA 
 
 along. Then the mountains seemed to come nearer to us 
 on each side and to frown down upon us ; we were enter- 
@@ -938,7 +456,7 @@ was speaking the horses be^;'!'^ to neigh and snort and
 
 
 
-JONATHAN HARKER'S JOURNAL li 
+JONATHAN HARKER'S JOURNAL 11
 
 plunge wildly, so that the driver had to hold them up. 
 Then, amongst a chorus of screams from the peasants and 
@@ -1190,9 +708,6 @@ chase of a London estate to a foreigner ? Solicitor's clerk '
 Mina would not like that. Solicitor— for just before leav- 
 ing London I got word that my examination was success- 
 
-i6 
-
-
 
 JONATHAN HARKER'S JOURNAL 17 
 
@@ -1242,7 +757,7 @@ a moment I doubted if it were not the same person to
 
 
 
-i8 D R A C U L A 
+18 D R A C U L A 
 
 whom I was speaking; so to make sure, I said interro- 
 gatively : — 
