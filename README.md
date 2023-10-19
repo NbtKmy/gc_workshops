@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/605625572.svg)](https://zenodo.org/doi/10.5281/zenodo.10021641)
+
 # Workshopreihe im Herbstsemester 2023
 
 Notebooks in diesem Repository sind für die Workshopreihe im HS23 geschrieben. 
